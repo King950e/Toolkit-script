@@ -1,0 +1,4 @@
+Firstname,Lastname,Username,Password,OU
+Test,User,tuser,Changeme123!,"OU=F25 Students,OU=IT Students,DC=dtit,DC=local"
+John,Smith,jsmith,SecurePass2026!,"OU=S26 Students,OU=IT Students,DC=dtit,DC=local"
+Jane,Doe,jdoe,DixieTech2026!,"OU=S26 Students,OU=IT Students,DC=dtit,DC=local"

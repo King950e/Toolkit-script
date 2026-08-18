@@ -1,0 +1,8 @@
+{
+  "UpnSuffix": "xmail.dixietech.edu",
+  "SmtpServer": "smtp.gmail.com",
+  "SmtpPort": 587,
+  "LogRotateMaxBytes": 5242880,
+  "LogRotateKeep": 5,
+  "OffboardOU": ""
+}

@@ -1,0 +1,1 @@
+list disk then select disk then attributes disk clear readonly then do clean enter create partition primary then enter type format fs=exfat quick enter
